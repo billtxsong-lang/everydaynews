@@ -14,8 +14,8 @@ a static PHP page with one JSON file per day.
 - `index.php` renders the newest day server-side (so the page works without JS) and falls back to the
   API for navigation.
 
-The feeds are produced by a separate collector script that is not part of this repo; dropping a new
-`data/YYYY-MM-DD.json` in place is enough to publish a new day.
+The feeds are produced by [everydaynews-collector](https://github.com/billtxsong-lang/everydaynews-collector);
+dropping a new `data/YYYY-MM-DD.json` in place is enough to publish a new day.
 
 ## Running locally
 
