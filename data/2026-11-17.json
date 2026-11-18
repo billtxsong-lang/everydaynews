@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-17",
+  "city": "Vancouver, BC",
+  "generated_at": "2026-11-17T18:52:00-08:00",
+  "headline": "Strings, polar film, and a basement of standup",
+  "summary": "Tuesday leans classical and cinematic: a string quartet at the Playhouse, a marimba-and-cello duo at 240 Northern, and mountaineering films at the Rio. If you would rather sit in a small room and laugh, the weekly standup night at China Cloud is on too. Campus gets a rare-books session and an artist talk on the Drexciya mythos, both easy to walk into.",
+  "summary_zh": "今天偏古典与影像：Playhouse 的弦乐四重奏、240 Northern 的马林巴＋大提琴二重奏，以及 Rio 剧院的极地登山影展；想笑的话，China Cloud 的周二脱口秀照常开演。UBC 那边还有善本特藏和 Drexciya 主题的对谈。",
+  "events": [
+    {
+      "title": "Terra String Quartet",
+      "category": "Concerts",
+      "when": "Today",
+      "venue": "Vancouver Playhouse",
+      "note": "A full chamber programme from a young quartet, in one of the city's proper concert halls.",
+      "url": "https://www.straight.com/listings/events/1469888"
+    },
+    {
+      "title": "VIMFF Extreme Antarctica",
+      "category": "Film",
+      "when": "Today",
+      "venue": "Rio Theatre",
+      "note": "The mountain film festival's polar programme on the Rio's big screen — ice, wind and expedition footage.",
+      "url": "https://www.straight.com/listings/events/1469382"
+    },
+    {
+      "title": "Stick&Bow — Marimba & Cello duo",
+      "category": "Concerts",
+      "when": "Today",
+      "venue": "240 Northern",
+      "note": "An unusual pairing in a small room — chamber music for people who want something off the usual programme.",
+      "url": "https://www.straight.com/listings/events/1469405"
+    },
+    {
+      "title": "The Tuesday Show: standup comedy",
+      "category": "Comedy",
+      "when": "Today",
+      "venue": "China Cloud",
+      "note": "A weekly standup night in a small Main Street room. The kind of show where the room is half the joke.",
+      "url": "https://www.straight.com/listings/events/1470151"
+    },
+    {
+      "title": "From the Deep: In the Wake of Drexciya with Ayana V Jackson",
+      "category": "Talks",
+      "when": "Today",
+      "venue": "Coach House, Green College (UBC)",
+      "note": "An artist talk on the Drexciya mythos and its afterlife in contemporary art — and it's on campus.",
+      "url": "https://www.straight.com/listings/events/1469457"
+    },
+    {
+      "title": "Getting to know Rare Books and Special Collections at UBC",
+      "category": "Books",
+      "when": "Today",
+      "venue": "Irving K. Barber Learning Centre",
+      "note": "An introduction to UBC's rare books vault. Worth it if old paper and odd archives are your thing.",
+      "url": "https://www.straight.com/listings/events/1469979"
+    },
+    {
+      "title": "First Nations Art / Applied Art + Design Combined Exhibition",
+      "category": "Galleries",
+      "when": "Today thru Nov 24",
+      "venue": "Roundhouse Community Arts & Recreation Centre",
+      "note": "A combined show running all week — an easy drop-in if you're near Yaletown.",
+      "url": "https://www.straight.com/listings/events/1468403"
+    },
+    {
+      "title": "No Brainer Trivia at Container",
+      "category": "Trivia",
+      "when": "Today",
+      "venue": "Container Brewing",
+      "note": "Brewery trivia. Bring a team, or stand near one until they adopt you.",
+      "url": "https://www.straight.com/listings/events/1469671"
+    },
+    {
+      "title": "AKASHI — award-winning feature at VIFF Centre",
+      "category": "Film",
+      "when": "Today",
+      "venue": "VIFF Centre",
+      "note": "A festival feature getting a run at the VIFF Centre — the comfortable option for a film night.",
+      "url": "https://www.straight.com/listings/events/1469987"
+    },
+    {
+      "title": "An Evening with Renée Coughlin & Rebekah Hawker",
+      "category": "Concerts",
+      "when": "Today",
+      "venue": "Painted Lady Records",
+      "note": "Two songwriters sharing a bill in a record-store-sized room.",
+      "url": "https://www.straight.com/listings/events/1469950"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "Vancouver Indigenous Fashion Week",
+      "when": "Nov 18",
+      "venue": "Queen Elizabeth Theatre",
+      "url": "https://www.straight.com/listings/events/1469866"
+    },
+    {
+      "title": "Louis Lortie",
+      "when": "Nov 18",
+      "venue": "Vancouver Academy of Music",
+      "url": "https://www.straight.com/listings/events/1467262"
+    },
+    {
+      "title": "Olivia O'Brien",
+      "when": "Nov 18",
+      "venue": "Hollywood Theatre",
+      "url": "https://www.straight.com/listings/events/1467890"
+    },
+    {
+      "title": "Korpiklaani with Crimson Shadows and Kayas",
+      "when": "Nov 18",
+      "venue": "Rickshaw Theatre",
+      "url": "https://www.straight.com/listings/events/1469602"
+    },
+    {
+      "title": "SHIFT Vancouver: An Evening of True Stories",
+      "when": "Nov 18",
+      "venue": "Vancouver Playhouse",
+      "url": "https://www.straight.com/listings/events/1470150"
+    },
+    {
+      "title": "Yes Shef Vancouver 2026",
+      "when": "Nov 18",
+      "venue": "Fairmont Pacific Rim",
+      "url": "https://www.straight.com/listings/events/1469787"
+    }
+  ],
+  "sources": [
+    "https://www.straight.com/events"
+  ]
+}
