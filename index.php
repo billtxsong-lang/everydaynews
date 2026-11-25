@@ -89,6 +89,7 @@ $canonical = $isLatest || $isToday ? BASE : BASE . '?date=' . urlencode((string)
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="stylesheet" href="style.css">
+  <link rel="alternate" type="application/atom+xml" title="Vancouver Daily" href="feed.php">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Song Tianxiang">
@@ -233,7 +234,7 @@ if ($others !== []):
 
 <footer class="site">
   <p>Compiled automatically from <a href="https://www.straight.com/events" target="_blank" rel="noopener">Georgia Straight</a> and <a href="https://www.eventbrite.ca/d/canada--vancouver/events/" target="_blank" rel="noopener">Eventbrite</a> listings. Always double-check time, price and availability with the venue before heading out.</p>
-  <p><a href="/">songtianxiang.com</a></p>
+  <p><a href="/">songtianxiang.com</a> · <a href="feed.php" type="application/atom+xml">RSS</a></p>
 </footer>
 
 </body>

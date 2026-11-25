@@ -13,6 +13,8 @@ a static PHP page with one JSON file per day.
   uses to switch between dates without a reload.
 - `index.php` renders the newest day server-side (so the page works without JS) and falls back to the
   API for navigation.
+- `feed.php` serves the ten most recent editions as an Atom feed (`/everydaynews/feed.php`), so
+  readers can subscribe with any feed reader.
 
 The feeds are produced by [everydaynews-collector](https://github.com/billtxsong-lang/everydaynews-collector);
 dropping a new `data/YYYY-MM-DD.json` in place is enough to publish a new day.
@@ -31,6 +33,7 @@ Open <http://127.0.0.1:8000/>. The API is at `/api.php` and `/api.php?date=YYYY-
 
 ```
 api.php       JSON endpoint: available dates + one day's feed
+feed.php      Atom feed of the latest editions
 index.php     page shell + server-side render of the latest day
 style.css     styles
 data/         one JSON file per published day
